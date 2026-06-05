@@ -88,7 +88,11 @@ The project successfully transformed raw customer transaction data into meaningf
 * Real-time dashboard integration.
 * Machine learning-based customer segmentation.
 
+## Author
 
+**Uday Reddy Vangala**
+
+### Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/uday-reddy-1807vd](http://www.linkedin.com/in/uday-reddy-1807vd)
 * GitHub: github.com/udayreddyvangala499-collab
